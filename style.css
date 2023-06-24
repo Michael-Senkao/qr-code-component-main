@@ -46,4 +46,5 @@ p{
 }
 .p-2{
     letter-spacing: -1px;
+    color: hsl(220, 15%, 55%);
 }
